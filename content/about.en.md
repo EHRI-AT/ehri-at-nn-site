@@ -21,6 +21,8 @@ EHRI-AT will seek to ensure the long-term sustainability of the Holocaust resear
 •	disseminating, implementing and developing innovative digital research tools;\
 •	offering fellowships and training opportunities for researchers, archivists and heritage professionals.
 
+        {{< figure src="../../images/versammlung_25.jpg" >}}
+        
 <br/><br/>
 EHRI’s impact is primarily scientific; however, the infrastructure also pursues a broader social and political agenda. The recent rise of antisemitism, xenophobia and aggressive nationalisms in Europe and beyond demonstrate that Holocaust research is never a purely academic concern but a prerequisite for open and non-discriminatory societies across Europe and the world.
 

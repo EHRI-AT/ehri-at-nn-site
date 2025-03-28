@@ -14,8 +14,6 @@ The research infrastructure [EHRI](https://www.ehri-project.eu) was included in 
 
 EHRI-AT will seek to ensure the long-term sustainability of the Holocaust research infrastructure within Austria and beyond by:
 
-<br/><br/> 
-
 •	representing institutions in Austria working in the field of documentation, commemoration and research on the Holocaust to establish and develop a strong research consortium;\
 •	exchanging and sharing expertise on digital developments and connecting resources through a state-of-the-art digital infrastructure;\
 •	disseminating, implementing and developing innovative digital research tools;\
